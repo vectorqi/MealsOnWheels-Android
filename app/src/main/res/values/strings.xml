@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Meals on Wheels</string>
+    <string name="btn_pick_image">Pick Image to Recognize</string>
+    <string name="btn_sort_route">📍 Sort by Current Location</string>
+    <string name="btn_mark_delivered">✅ Mark as Delivered</string>
+    <string name="btn_mark_undelivered">❌ Mark as Not Delivered</string>
+    <string name="btn_navigate">🗺️ Navigate</string>
+    <string name="label_name">👤 Name: %1$s</string>
+    <string name="label_address">🏠 Address: %1$s</string>
+    <string name="label_phone">📞 Phone: %1$s</string>
+    <string name="label_meal">🍱 Meal: %1$s</string>
+    <string name="label_note">📋 Note: %1$s</string>
+    <string name="label_status">📦 Status: %1$s</string>
+    <string name="no_data">No delivery data. Please upload a delivery sheet.</string>
+    <string name="status_not_delivered">Not Delivered</string>
+    <string name="status_delivered">Delivered</string>
+</resources>
